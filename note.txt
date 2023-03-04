@@ -1,0 +1,11 @@
+<Hosting>
+    - 서버(컴퓨터)의 전체 혹은 일부를 빌려 사용하는 것
+
+1. DOTHOME(3개월 무료)
+
+    FTP(File Transfer Protocol)
+        - 첫번째(메인) 페이지 이름은 index.html
+
+2. Github pages
+
+    entry file = index.html
